@@ -1,7 +1,7 @@
 ## Destiny 2 Shadowkeep Single Player Exploration Mode
 ### Information wants to be free. - Nimbus
 
-> Currently in development and not available. Will be free and open source on release!
+> Currently in development and not available. Will be free and open source once released!
 
 > !! Warning: This repository is WIP. Important parts might be missing !!
 

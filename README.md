@@ -16,18 +16,23 @@ Planned release within 2 weeks
 
 ## Faq
 > Q: Where can I download?
+> 
 > A: Not right now, it will release soon.
 
 > Q: Will it be free?
+> 
 > A: Yes, but you need to download the destiny version yourself through steam.
 
 > Q: Does X activity work?
+> 
 > A: Load in: yes. Mechanics: No. No mechanics are implemented and none will be implemented. Maps are empty. No enemies, no npcs, no mechanics.
 
 > Q: Does it support other versions?
+> 
 > A: No.
 
 > Q: Can i pick my character, weapon, subclass?
+> 
 > A: No. At least not yet. Right now there is 3 characters: hunter, titan, warlock. The equipment is hardcoded and can not be changed.
 
 ## Disclaimer:

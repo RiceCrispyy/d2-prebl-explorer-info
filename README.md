@@ -36,6 +36,10 @@ Planned release within 2 weeks
 > 
 > A: No. At least not yet. Right now there is 3 characters: hunter, titan, warlock. The equipment is hardcoded and can not be changed.
 
+> Q: What version is this?
+>
+> A: Season of arrivals. Last build before the sunsetting.
+
 ## Disclaimer:
 This is a mod for an old build of destiny 2. You need to provide the build yourself it will not be provided.
 

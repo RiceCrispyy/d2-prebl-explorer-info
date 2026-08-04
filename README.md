@@ -55,3 +55,14 @@ This project is not for profit, it is for educational and research purposes only
 
 AI Disclaimer:
 AI was used in the creation of this project. More details will be provided upon release. If you are not comfortable with the use of AI in programming projects beware.
+
+## Credits:
+> if you are in here and want to put a social media link contact me
+>
+> did i forget you? sorry, contact me to get added
+>
+> this list will be expanded with links and details on release :)
+- Tools used as inspiration/reference:
+- help with code/mechanics/information: ginsor
+- Help with cool destinations to explore: breshi, pete, solus, cube
+- Overall support: everyone on discord providing feedback and infos :) happy to see people so excited about something

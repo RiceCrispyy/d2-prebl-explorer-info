@@ -3,6 +3,8 @@
 
 > Currently in development and not available. Will be free and open source on release!
 
+> !! Warning: This repository is WIP. Important parts might be missing !!
+
 ## Timeline
 Planned release within 2 weeks
 

@@ -17,6 +17,9 @@ Planned release within 2 weeks
 >
 > Install them to the same folder, keep in mind this means a manual install of the mod later down the line. If you are not comforable with that the just wait for release, I will have an installer.
 
+## Progress
+Currently almost done with the rewrite. Testing and some last features will follow. Ready in a few days.
+
 ## Features
 - Load into any destination / activity
 - Move around the whole map throughout any load zones

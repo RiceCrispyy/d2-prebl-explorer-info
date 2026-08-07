@@ -70,6 +70,8 @@ This project is not for profit. It does not affect live servers or newer version
 AI Disclaimer:
 AI was used in the creation of this project. More details will be provided upon release. If you are not comfortable with the use of AI in programming projects beware.
 
+AI was NOT used to create any art or writing. Only for RE, development and documentation purposes. All AI work that will be publicly released is reviewed by a human. AI is a tool and the user is responsible for the results it produces. 
+
 ## Credits:
 > if you are in here and want to put a social media link contact me
 >

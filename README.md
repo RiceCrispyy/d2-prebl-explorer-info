@@ -40,19 +40,20 @@ Currently almost done with the rewrite. Testing and some last features will foll
 
 > Q: Does X activity work?
 > 
-> A: Load in: yes. Mechanics: No. No mechanics are implemented and none will be implemented. Maps are empty. No enemies, no npcs, no mechanics.
+> A: Load in: yes. Mechanics: No. No mechanics are implemented and at the moment there are no plans for me to do so. Maps are empty. No enemies, no npcs, no mechanics.
 
 > Q: Does it support other versions?
 > 
-> A: No.
+> A: No. If you want to get it to work on other versions you can do so yourself.
 
 > Q: Can i pick my character, weapon, subclass?
 > 
-> A: No. At least not yet. Right now there is 3 characters: hunter, titan, warlock. The equipment is hardcoded and can not be changed.
+> A: Not easily. All the progression is hardcoded, doing these things ingame is currently not supported. The character data is in a config so if you have knowledge of these systems (api, hashes, plugs, ect.) you can configure the characters to your liking. 
 
 > Q: What version is this?
 >
 > A: Season of arrivals. One of the last build before the sunsetting.
+> (I claimed it was the last one before beyond light. Turns out this is not true, sorry for the confusion.)
 
 ## Disclaimer:
 This is a mod for an old build of destiny 2. You need to provide the build yourself it will not be provided.
@@ -65,7 +66,7 @@ This is a mod for an old build of destiny 2. You need to provide the build yours
 You need to own a copy of destiny 2 to launch this mod. It does not enable any cheating or exploitation. It is soley made to visit old maps and explore them in engine.
 
 Legal Disclaimer:
-This project is not for profit, it is for educational and research purposes only. This falls completely under fair use and there is no valid reason for any kind of legal action. Filing a DMCA claim or other copyright or licensing claim against this project is an ILLEGAL violation of copyright law and legal action will follow.
+This project is not for profit. It does not affect live servers or newer versions of destiny where research like this could pose a security risk. No game data will be included in the release so this is not a copyright violation. This is also not a circumvention of protective measures. Please do not file any DMCA or other copyright claims against this. Legal action will be taken for abuse of the copyright system to censor this work. 
 
 AI Disclaimer:
 AI was used in the creation of this project. More details will be provided upon release. If you are not comfortable with the use of AI in programming projects beware.

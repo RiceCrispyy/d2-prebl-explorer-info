@@ -8,6 +8,12 @@
 ## Timeline
 Planned release within 2 weeks
 
+## Depots
+> If anyone with slow internet wants to be prepared, here are the depots you need to download for this mod.
+> depot 1085661 manifest 7180122903232116872
+> 
+> depot 1085662 manifest 2210332166360342287
+
 ## Features
 - Load into any destination / activity
 - Move around the whole map throughout any load zones

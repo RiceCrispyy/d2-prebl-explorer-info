@@ -49,7 +49,7 @@ Planned release within 2 weeks
 
 > Q: What version is this?
 >
-> A: Season of arrivals. Last build before the sunsetting.
+> A: Season of arrivals. One of the last build before the sunsetting.
 
 ## Disclaimer:
 This is a mod for an old build of destiny 2. You need to provide the build yourself it will not be provided.

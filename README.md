@@ -3,7 +3,7 @@
 
 > Currently in development and not available. Will be free and open source once released!
 >
-> This repository does not contain any sources, only information. The release will be liked here once its out. If you can read this it has not yet released.
+> This repository does not contain any sources, only information. The release will be linked here once its out. If you can read this it has not yet released.
 
 ## Timeline
 Rewrite ~75% complete.

@@ -2,11 +2,13 @@
 ### Information wants to be free. - Nimbus
 
 > Currently in development and not available. Will be free and open source once released!
-
-> !! Warning: This repository is WIP. Important parts might be missing !!
+>
+> This repository does not contain any sources, only information. The release will be liked here once its out. If you can read this it has not yet released.
 
 ## Timeline
-Planned release within 2 weeks
+Rewrite ~75% complete.
+Testing starts soon.
+Public release will follow days later.
 
 ## Depots
 > If anyone with slow internet wants to be prepared, here are the depots you need to download for this mod:
@@ -16,9 +18,6 @@ Planned release within 2 weeks
 > depot 1085662 manifest 2210332166360342287
 >
 > Install them to the same folder, keep in mind this means a manual install of the mod later down the line. If you are not comforable with that the just wait for release, I will have an installer.
-
-## Progress
-Currently almost done with the rewrite. Testing and some last features will follow. Ready in a few days.
 
 ## Features
 - Load into any destination / activity

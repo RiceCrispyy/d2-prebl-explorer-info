@@ -99,5 +99,5 @@ AI was NOT used to create any art or writing. Only for RE, development and docum
   - https://github.com/cohaereo/destinydocs
   - https://github.com/MontagueM/DestinyUnpacker
 - help with code/mechanics/information: ginsor
-- Help with cool destinations to explore: breshi, pete, solus, cube
+- Help with cool destinations to explore: pete, solus, cube
 - Overall support: everyone on discord providing feedback and infos :) happy to see people so excited about something

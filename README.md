@@ -6,7 +6,7 @@
 > This repository does not contain any sources, only information. The release will be linked here once its out. If you can read this it has not yet released.
 
 ## Timeline
-Rewrite ~75% complete.
+Rewrite ~85% complete.
 Testing starts soon.
 Public release will follow days later.
 

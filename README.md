@@ -6,8 +6,8 @@
 > This repository does not contain any sources, only information. The release will be linked here once its out. If you can read this it has not yet released.
 
 ## Timeline
-Rewrite ~95% complete.
-Testing starts soon.
+Rewrite complete.
+Testing and bugfixing right now, lots of bugs left.
 Public release will follow days later.
 
 ## Depots

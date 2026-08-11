@@ -8,7 +8,7 @@
 ## Timeline
 Rewrite complete.
 Testing and bugfixing right now, lots of bugs left.
-Public release will follow days later.
+Release this week.
 
 ## Depots
 > If anyone with slow internet wants to be prepared, here are the depots you need to download for this mod:
